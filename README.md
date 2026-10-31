@@ -1,5 +1,8 @@
 # Лабораторные работы по "ИИ-мышление: Наука и технологии"
 
+Перед запуском блокнотов:
+pip install -r requirements.txt
+
 ## Список работ
 
 | № | Тема | Ссылка |
@@ -7,3 +10,4 @@
 | 1 | Основы LM | [Lab1](./labs/lab_1_general_homework.ipynb) |
 | 2 | Механизм внимания | [Lab2](./labs/lab_2_lite_homework.ipynb) |
 | 3 | Позиционное кодирование и инференс | [Lab3](./labs/lab_3_lite_homework.ipynb) |
+| 4 | Методы декодирования и генерации текста | [Lab4](./labs/lab_4_lite_homework.ipynb) |
